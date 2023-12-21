@@ -3,45 +3,56 @@ entries:
   examplehelmpkg:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-20T19:10:35.576563451Z"
+    created: "2023-12-21T11:30:54.685703747Z"
     description: A Helm chart for Kubernetes
     digest: d2f92e83046abf75d877d24603b4fd5e1b4b0a90950c5d4fd723c3b38edc6608
     name: examplehelmpkg
     type: application
     urls:
-    - conorlynchgit.github.io/example/examplehelmpkg-0.1.0.tgz
+    - https://conorlynchgit.github.io/example/examplehelmpkg-0.1.0.tgz
+    version: 0.1.0
+  fifthone:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-21T11:30:54.686143182Z"
+    description: A Helm chart for Kubernetes
+    digest: 68d15e40cb4b93683fbb488c23eec3258b8a976fba65adf2de778b556068ec9f
+    name: fifthone
+    type: application
+    urls:
+    - https://conorlynchgit.github.io/example/fifthone-0.1.0.tgz
     version: 0.1.0
   fourthone:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-20T19:10:35.577026801Z"
+    created: "2023-12-21T11:30:54.686548825Z"
     description: A Helm chart for Kubernetes
     digest: 6bebcf128b40d90a6b78866960ea3b1fd04ca5d40d246aac83d07f9782193607
     name: fourthone
     type: application
     urls:
-    - conorlynchgit.github.io/example/fourthone-0.1.0.tgz
+    - https://conorlynchgit.github.io/example/fourthone-0.1.0.tgz
     version: 0.1.0
   nextchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-20T19:10:35.577421293Z"
+    created: "2023-12-21T11:30:54.686939221Z"
     description: A Helm chart for Kubernetes
     digest: ceac06cfefe745c5a2a62e510b0a80651123ed34c820f9fdc12e9df50b5094fd
     name: nextchart
     type: application
     urls:
-    - conorlynchgit.github.io/example/nextchart-0.1.0.tgz
+    - https://conorlynchgit.github.io/example/nextchart-0.1.0.tgz
     version: 0.1.0
   thirdone:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-20T19:10:35.577795809Z"
+    created: "2023-12-21T11:30:54.687306994Z"
     description: A Helm chart for Kubernetes
     digest: 2568d05eef2998698fab8e1f7ea2c343bf9ebb1ac3121439724468fab4c9f86e
     name: thirdone
     type: application
     urls:
-    - conorlynchgit.github.io/example/thirdone-0.1.0.tgz
+    - https://conorlynchgit.github.io/example/thirdone-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-20T19:10:35.575651137Z"
+generated: "2023-12-21T11:30:54.685139449Z"
