@@ -3,7 +3,7 @@ entries:
   examplehelmpkg:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-21T11:30:54.685703747Z"
+    created: "2023-12-21T12:08:57.990413607Z"
     description: A Helm chart for Kubernetes
     digest: d2f92e83046abf75d877d24603b4fd5e1b4b0a90950c5d4fd723c3b38edc6608
     name: examplehelmpkg
@@ -14,7 +14,7 @@ entries:
   fifthone:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-21T11:30:54.686143182Z"
+    created: "2023-12-21T12:08:57.990840953Z"
     description: A Helm chart for Kubernetes
     digest: 68d15e40cb4b93683fbb488c23eec3258b8a976fba65adf2de778b556068ec9f
     name: fifthone
@@ -25,7 +25,7 @@ entries:
   fourthone:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-21T11:30:54.686548825Z"
+    created: "2023-12-21T12:08:57.991234896Z"
     description: A Helm chart for Kubernetes
     digest: 6bebcf128b40d90a6b78866960ea3b1fd04ca5d40d246aac83d07f9782193607
     name: fourthone
@@ -36,7 +36,7 @@ entries:
   nextchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-21T11:30:54.686939221Z"
+    created: "2023-12-21T12:08:57.991616227Z"
     description: A Helm chart for Kubernetes
     digest: ceac06cfefe745c5a2a62e510b0a80651123ed34c820f9fdc12e9df50b5094fd
     name: nextchart
@@ -44,10 +44,21 @@ entries:
     urls:
     - https://conorlynchgit.github.io/example/nextchart-0.1.0.tgz
     version: 0.1.0
+  sixthone:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-21T12:08:57.992023415Z"
+    description: A Helm chart for Kubernetes
+    digest: 763c7bf7e64377d94121651187bb7d27a561c24bb7a7e48af1983517d56647d9
+    name: sixthone
+    type: application
+    urls:
+    - https://conorlynchgit.github.io/example/sixthone-0.1.0.tgz
+    version: 0.1.0
   thirdone:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-21T11:30:54.687306994Z"
+    created: "2023-12-21T12:08:57.992822893Z"
     description: A Helm chart for Kubernetes
     digest: 2568d05eef2998698fab8e1f7ea2c343bf9ebb1ac3121439724468fab4c9f86e
     name: thirdone
@@ -55,4 +66,4 @@ entries:
     urls:
     - https://conorlynchgit.github.io/example/thirdone-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-21T11:30:54.685139449Z"
+generated: "2023-12-21T12:08:57.989873081Z"
